@@ -2,6 +2,11 @@
 its a code editor inside your terminal
 
 # example ui
+the ui will have these features
+ - syntax highlighting in warm / light colors for keywords, functions, etc...
+ - auto indention for code
+ - autocomplete for code for the syntax or functions, values, etc...
+ - line numbers to see how many lines are in your code
 
 ```
 ┌─bubblePrintValue.js───────────────────────────────┐
@@ -13,4 +18,5 @@ its a code editor inside your terminal
 | 6 | };                                            | 
 | 7 |                                               |
 | 8 | printValue(bubbleMath)                        |
+| 9 | [ your cusor here ]                           |
 └───────────────────────────────────────────────────┘
