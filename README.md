@@ -2,14 +2,16 @@
 
 its a code editor inside your terminal
 
-## example ui
+## features
 
-the ui will have these features
+the code editor will have these primary features below as well being programed in javascript.
 
 - syntax highlighting in warm / light colors for keywords, functions, etc...
 - auto indention for code
 - autocomplete for code for the syntax or functions, values, etc...
 - line numbers to see how many lines are in your code
+
+## example ui design
 
 ```
 ┌─bubblePrintValue.js───────────────────────────────┐
@@ -25,29 +27,7 @@ the ui will have these features
 └───────────────────────────────────────────────────┘
 ```
 
-## Features
+## setup
+this porject will require you to have node.js installed your your computer. i will try to incude a feature were you can just install it from a website link inside your terminal but that will be mainly for macOS users. if you dont want to install it onto your computer i will make a codespace so you can edit your code there.
 
-✨ **Syntax Highlighting** - Warm and light colors for keywords, functions, and syntax elements
-
-📝 **Auto Indentation** - Automatically indents code when you press Enter
-
-🔮 **Autocomplete** - Intelligent suggestions for syntax, functions, variables, and values
-
-📊 **Line Numbers** - Display line count for easy code navigation
-
-## Getting Started
-
-```bash
-git clone https://github.com/jacomchan/code_editor.git
-cd code_editor
-npm install
-npm start
-```
-
-## Development
-
-This is an active project in development. Check back soon for updates!
-
-## License
-
-MIT
+if you think this is a virus or a hack to get into your computer it is not. i just want to make it like 
